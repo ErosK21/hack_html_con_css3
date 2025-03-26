@@ -1,0 +1,103 @@
+:root {
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    background-color: #93B5C9;
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+
+    
+
+}
+
+h1 {
+    background-color: #AB2849; 
+    height: 120px;
+    bottom: 21px;
+    padding: 5px;
+    margin: 0;
+}
+
+.principal {
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    height: 60%;
+}
+
+.clase_div {
+    background-color: #AB2849;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.clase_zero {
+    background-color: #AB2849;
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+
+.uno {
+   margin-right: 1%;
+}
+
+.dos {
+    margin-left: 1%;
+    
+}
+
+
+.clase_two {
+    background-color: white;
+
+}
+
+.clase_zer {
+    background-color: #AB2849;
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+
+.tres {
+    margin-right: 1%;
+ }
+ 
+ .cuatro {
+     margin-left: 1%;
+     
+ }
+ 
+ .clase_six {
+    background-color: white;
+ }
+
+footer {
+    background-color: #AB2849;
+    height: 50px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 1%;
+}
+

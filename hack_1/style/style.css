@@ -1,0 +1,160 @@
+:root {
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    background-color: #93B5C9;
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+
+    
+
+}
+
+h1 {
+    background-color: #AB2849; 
+    height: 140px;
+    position: relative;
+    bottom: 21px;
+    padding: 5px;
+}
+
+.clase_one {
+    width: 80%;
+    height: 50px;
+    background-color:#AB2849;
+    position: absolute;
+    right: 0;
+    left: 20%;
+    top: 240px;
+
+}
+
+.clase_two {
+    width: 80%;
+    height: 50px;
+    background-color:#AB2849;
+    position: absolute;
+    right: 0;
+    left: 20%;
+    top: 310px;
+
+}
+
+.clase_three {
+    width: 80%;
+    height: 50px;
+    background-color:#AB2849;
+    position: absolute;
+    right: 0;
+    left: 20%;
+    top: 380px;
+
+}
+.clase_four {
+    width: 80%;
+    height: 50px;
+    background-color:#AB2849;
+    position: absolute;
+    right: 0;
+    left: 20%;
+    top: 450px;
+
+}
+
+.footer {
+    width: 90%;
+    height: 6%;
+    background-color: #AB2849;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    bottom: 1%;
+    
+
+}
+
+@media (max-width:420px) {
+    header{
+        background-color: #93B5C9;
+        margin: 0px;
+        padding: 0px;
+        height: 90px;
+
+    }
+
+    h1 {
+        background-color: #AB2849; 
+        height: 140px;
+        position: relative;
+        bottom: 21px;
+        padding: 5px;
+    }
+    
+    .clase_one {
+        width: 80%;
+        height: 10%;
+        background-color:#AB2849;
+        position: absolute;
+        right: 0;
+        left: 20%;
+        top: 290px;
+    
+    }
+    
+    .clase_two {
+        width: 80%;
+        height: 10%;
+        background-color:#AB2849;
+        position: absolute;
+        right: 0;
+        left: 20%;
+        top: 420px;
+    
+    }
+    
+    .clase_three {
+        width: 80%;
+        height: 10%;
+        background-color:#AB2849;
+        position: absolute;
+        right: 0;
+        left: 20%;
+        top: 550px;
+    
+    }
+    .clase_four {
+        width: 80%;
+        height: 10%;
+        background-color:#AB2849;
+        position: absolute;
+        right: 0;
+        left: 20%;
+        top: 680px;
+    
+    }
+    
+    .footer {
+        width: 90%;
+        height: 8%;
+        background-color: #AB2849;
+        position: absolute;
+        left: 5%;
+        right: 5%;
+        bottom: 1%;
+        
+    
+    }
+
+
+}
+
+  

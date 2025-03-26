@@ -1,17 +1,12 @@
-Hacks HTML CON CSS3
+# Hacks de HTML y CSS3
+## Integrante del Proyecto
 
-PULL_REQUEST_TEMPLATE
-# Tecnología
-- [X] HTML
-- [X] CSS3
-- [ ] docs
+| Nombre            | Ubicación    |
+|-------------------|--------------|
+| Eliezer Torrealba |    Venezuela |
 
-# Seleccione el tipo de actividad
-- [X] Feature
-- [ ] Changes
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
-
+| Hack           | Repositorio   |
+|----------------|---------------|
+| repositorio principal        |  "Es este"    |
+| git_h_2        | https://github.com/ErosK21/git_h_2.git |
 

@@ -1,0 +1,197 @@
+:root {
+    --bg-:#B88940;
+    --bg-:#FFBD59;
+}
+
+body {
+    margin: 0;
+}
+.primera_parte {
+    position: fixed;
+    top: 4%;
+    left: 40%;
+    right: 40%;
+    width: 20%;
+    height: 35%;
+}
+
+.barrita {
+    background-color: black;
+    display: block;
+    height: 5%;
+    width: 30%;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.primer_p, .sale, .descuento, .lorem {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.primer_p {
+    margin-top: 20px;
+    margin-left: 27px;
+    font-size: 20px;
+}
+
+.sale {
+    color: #B88940;
+    font-size: 60px;
+    margin-left: 34px;
+}
+
+.descuento {
+    margin-left: 35%;
+    font-size: 18px;
+}
+
+.lorem {
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+.segunda_parte {
+    width: 90%;
+    height: 45%;
+    position: absolute;
+    top: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex {
+    background-color: #FFBD59;
+    width: 100%;
+    height: 10%;
+    margin-bottom: 2%;
+    
+}
+
+
+.section {
+    
+    position: fixed;
+    top: 230px;
+   margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    height: 42%;
+    display: block;
+    flex-direction: column;
+   
+}
+
+.uno {
+    
+    width: 100%;
+    height: 90%;
+    display: flex;
+    
+
+}
+
+.dos {
+    
+    width: 100%;
+    height: 10%;
+    display: flex;
+}
+
+
+.imagen {
+    width: 30%;
+    height: 100%;
+    margin-right: 1.8%;
+    margin-left: 1.8%;
+}
+
+
+.precio {
+    width: 30%;
+    height: 90%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .primera_parte {
+        width: 50%;
+        left: 25%;
+        right: 25%;
+    }
+
+    .primer_p {
+        font-size: 16px;
+    }
+
+    .sale {
+        font-size: 40px;
+    }
+
+    .descuento {
+        font-size: 14px;
+    }
+
+    .lorem {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .primera_parte {
+        width: 70%;
+        left: 15%;
+        right: 15%;
+    }
+
+    .primer_p {
+        font-size: 12px;
+    }
+
+    .sale {
+        font-size: 30px;
+    }
+
+    .descuento {
+        font-size: 12px;
+    }
+
+    .lorem {
+        font-size: 10px;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .precio {
+        font-size: 14px;
+        text-align: center; 
+        width: 90%; 
+        margin: 0 auto; 
+    }
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.fashion {
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+    color: #B88940;
+}
+
+.pie {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: x-small;
+}

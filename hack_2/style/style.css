@@ -1,0 +1,157 @@
+:root {
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    background-color: #93B5C9;
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+
+    
+
+}
+
+h1 {
+    background-color: #AB2849; 
+    height: 140px;
+    bottom: 21px;
+    padding: 5px;
+    margin: 0;
+}
+
+.clase_one {
+    width: 70%;
+    height: 50px;
+    background-color:#AB2849;
+    float: left;
+    margin-top: 15px;
+
+}
+
+.clase_two {
+    width: 70%;
+    height: 50px;
+    background-color:#AB2849;
+    float: left;
+    margin-top: 15px;
+
+}
+
+.clase_three {
+    width: 70%;
+    height: 50px;
+    background-color:#AB2849;
+   float: left;
+   margin-top: 15px
+
+}
+.clase_four {
+    width: 70%;
+    height: 50px;
+    background-color:#AB2849;
+    float: left;
+    margin-top: 15px;
+
+}
+
+.footer {
+    width: 90%;
+    height: 40px;
+    background-color: #AB2849;
+    float: inline-end;
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    
+   
+    
+
+}
+
+@media (max-width:420px) {
+
+    body{
+        margin: 0;
+        padding: 0;
+        
+    }
+    header {
+        background-color: #93B5C9;
+        margin: 0px;
+        padding: 0px;
+        height: 70px;
+    
+        
+    
+    }
+    
+    h1 {
+        background-color: #AB2849; 
+        height: 140px;
+        bottom: 21px;
+        padding: 5px;
+        margin: 0;
+    }
+    
+    .clase_one {
+        width: 70%;
+        height: 100px;
+        background-color:#AB2849;
+        float: left;
+        margin-top: 35px;
+    
+    }
+    
+    .clase_two {
+        width: 70%;
+        height: 100px;
+        background-color:#AB2849;
+        float: left;
+        margin-top: 35px;
+    
+    }
+    
+    .clase_three {
+        width: 70%;
+        height: 100px;
+        background-color:#AB2849;
+       float: left;
+       margin-top: 35px
+    
+    }
+    .clase_four {
+        width: 70%;
+        height: 100px;
+        background-color:#AB2849;
+        float: left;
+        margin-top: 35px;
+    
+    }
+    
+    .footer {
+        width: 90%;
+        height: 80px;
+        background-color: #AB2849;
+        float: inline-end;
+        margin-top: 30px;
+        margin-left: 5%;
+        margin-right: 5%;
+    
+        
+       
+        
+    
+    }
+
+}
+
+  
